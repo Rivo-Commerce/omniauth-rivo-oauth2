@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 RSpec.describe OmniAuth::Rivo::OAuth2 do
   it "has a version number" do
     expect(OmniAuth::Rivo::OAuth2::VERSION).not_to be nil

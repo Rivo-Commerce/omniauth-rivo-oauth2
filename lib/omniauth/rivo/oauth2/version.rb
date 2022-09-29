@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 module OmniAuth
   module Rivo
     module OAuth2

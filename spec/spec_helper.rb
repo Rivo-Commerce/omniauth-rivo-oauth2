@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require "omniauth/rivo/oauth2"
 
 RSpec.configure do |config|
