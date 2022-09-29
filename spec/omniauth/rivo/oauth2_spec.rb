@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-RSpec.describe Omniauth::Rivo::Oauth2 do
+RSpec.describe OmniAuth::Rivo::OAuth2 do
   it "has a version number" do
-    expect(Omniauth::Rivo::Oauth2::VERSION).not_to be nil
+    expect(OmniAuth::Rivo::OAuth2::VERSION).not_to be nil
   end
 
   it "does something useful" do

@@ -4,7 +4,7 @@ require_relative "lib/omniauth/rivo/oauth2/version"
 
 Gem::Specification.new do |spec|
   spec.name = "omniauth-rivo-oauth2"
-  spec.version = Omniauth::Rivo::Oauth2::VERSION
+  spec.version = OmniAuth::Rivo::OAuth2::VERSION
   spec.authors = ["Rivo Commerce"]
   spec.email = ["developers@rivo.io"]
 

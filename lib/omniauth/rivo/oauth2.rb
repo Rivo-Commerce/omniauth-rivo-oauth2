@@ -2,9 +2,9 @@
 
 require_relative "oauth2/version"
 
-module Omniauth
+module OmniAuth
   module Rivo
-    module Oauth2
+    module OAuth2
       class Error < StandardError; end
       # Your code goes here...
     end
