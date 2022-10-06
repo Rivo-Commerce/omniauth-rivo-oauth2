@@ -1,4 +1,4 @@
-# OmniAuth::Rivo::OAuth2
+# OmniAuth Rivo OAuth2 Strategy
 
 Welcome to your new gem! In this directory, you'll find the files you need to be
 able to package up your Ruby library into a gem. Put your Ruby code in the file
@@ -52,6 +52,6 @@ The gem is available as open source under the terms of the
 
 ## Code of Conduct
 
-Everyone interacting in the OmniAuth::Rivo::OAuth2 project's codebases, issue
+Everyone interacting in the `omniauth-rivo-oauth2` project's codebases, issue
 trackers, chat rooms and mailing lists is expected to follow the
 [code of conduct](CODE_OF_CONDUCT.md).
