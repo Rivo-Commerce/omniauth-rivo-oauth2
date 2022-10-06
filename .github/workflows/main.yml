@@ -11,12 +11,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Ruby ${{ matrix.ruby }}
+    continue-on-error: ${{ matrix.experimental }}
     strategy:
       matrix:
         ruby:
           - '2.7'
           - '3.0'
           - '3.1'
+        experimental: [false]
+        include:
+          - ruby: head
+            experimental: true
 
     steps:
     - uses: actions/checkout@v3
