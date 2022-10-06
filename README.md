@@ -23,7 +23,7 @@ gem install omniauth-rivo-oauth2
 Please read the [OmniAuth documentation](https://github.com/omniauth/omniauth)
 for detailed instructions on adding a provider.
 
-#### Rails example
+### Rails example
 
 ```ruby
 # config/initializers/omniauth.rb
