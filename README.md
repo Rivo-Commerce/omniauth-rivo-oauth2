@@ -1,4 +1,4 @@
-# OmniAuth Rivo OAuth2 Strategy
+# OmniAuth Rivo OAuth 2 Strategy
 
 [OmniAuth](https://github.com/omniauth/omniauth) strategy for
 [Rivo](https://www.rivo.io/) OAuth 2 API.
