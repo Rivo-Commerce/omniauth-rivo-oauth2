@@ -41,9 +41,9 @@ git commits and the created tag, and push the `.gem` file to
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at
-https://github.com/[USERNAME]/omniauth-rivo-oauth2. This project is intended to
-be a safe, welcoming space for collaboration, and contributors are expected to
-adhere to the [code of conduct](CODE_OF_CONDUCT.md).
+<https://github.com/Rivo-Commerce/omniauth-rivo-oauth2>. This project is
+intended to be a safe, welcoming space for collaboration, and contributors are
+expected to adhere to the [code of conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
