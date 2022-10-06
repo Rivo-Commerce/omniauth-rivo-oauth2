@@ -3,7 +3,7 @@ PATH
   specs:
     omniauth-rivo-oauth2 (0.0.0)
       oauth2 (>= 2)
-      omniauth-oauth2 (~> 1.8)
+      omniauth-oauth2 (~> 1.7)
 
 GEM
   remote: https://rubygems.org/
@@ -99,14 +99,14 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  addressable (~> 2.8)
+  addressable
   omniauth-rivo-oauth2!
-  rack-proxy (~> 0.7.4)
-  rack-test (~> 2.0)
-  rake (~> 13.0)
-  rspec (~> 3.0)
-  standard (~> 1.3)
-  webmock (~> 3.18)
+  rack-proxy
+  rack-test
+  rake
+  rspec
+  standard
+  webmock
 
 BUNDLED WITH
    2.3.22
