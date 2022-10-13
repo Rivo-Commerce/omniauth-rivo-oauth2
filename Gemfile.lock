@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    omniauth-rivo-oauth2 (0.0.0)
+    omniauth-rivo-oauth2 (0.1.0)
       oauth2 (>= 2)
       omniauth-oauth2 (~> 1.7)
 
